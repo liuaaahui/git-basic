@@ -29,3 +29,11 @@ Other useful commands to see what is going on the git repository:
 ## Practice Output 
 1. Your repo url in Github
 2. Your answer for What is the difference between `add`, `commit`, and `push`?
+Add will add the changes we made from the working dir to the staging area;
+Commit will commit the contents of the staging area to the HEAD;
+Push will push content from the HEAD to the remote server.
+new line
+new line
+new line
+new line
+
